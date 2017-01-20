@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Build It Bigger</string>
+    <!--<string name="google_app_id">ca-app-pub-2913602738204806~7681111776</string>-->
+    <string name="action_settings">Settings</string>
+    <string name="instructions">Press the button for an Antic joke!!!\uD83D\uDE00</string>
+    <string name="button_text">Tell me a Joke</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <!--<string name="banner_ad_unit_id">ca-app-pub-2913602738204806/1494977375</string>-->
+    <string name="interstitial_ad_unit_id">ca-app-pub-2913602738204806/8599441779</string>
+    <string name="waiting_for_joke">Waiting for jokes retrieval...</string>
+    <string name="flavour">Main</string>
+</resources>

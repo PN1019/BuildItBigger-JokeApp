@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "510483560231",
+    "firebase_url": "https://build-it-bigger-cc679.firebaseio.com",
+    "project_id": "build-it-bigger-cc679",
+    "storage_bucket": "build-it-bigger-cc679.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510483560231:android:ed3a5581b3f8278b",
+        "android_client_info": {
+          "package_name": "com.example.abhi.builditbigger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510483560231-gnpmurlkf4gbvcdhoggf8s677p279b9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWtwvokHDxH3PQGxidzxv9nj1x3dB01Ic"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
